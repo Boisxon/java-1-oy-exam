@@ -1,0 +1,41 @@
+.box {
+    width: 500px;
+    height: 250px;
+    background-color: grey;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+  }
+  .text-1 {
+    border: 2px solid black;
+    width: 100px;
+    height: 30px;
+    color: #000;
+    text-align: center;
+  }
+  .text-2{
+    border: 2px solid black;
+    width: 100px;
+    color: #000;
+    height: 30px;
+    text-align: center;
+  }
+  .text-3 {
+    border: 2px solid black;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    color: black;
+  }
+  .button {
+    background-color: aqua;
+    width: 200px;
+    height: 50px;
+    border: none;
+    margin: 100px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
